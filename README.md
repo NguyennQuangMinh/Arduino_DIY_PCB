@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ARDUINO DIY:
 
 1. POWER:  
@@ -23,3 +24,7 @@ ARDUINO DIY:
     +) GPIO
 
 
+=======
+
+        
+>>>>>>> fd01a8b0d6d30fe3ca2191f12d13bbdefb4049fc
